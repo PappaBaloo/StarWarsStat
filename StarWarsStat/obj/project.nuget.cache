@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RFDmLekHXaxYEmjqEBuOqhzP+9ycFIChh3HS1JGMg7LdtnIHwjAPmlIVsh0G3nCaj5YKytWwADYa+LTFdP0/g==",
+  "success": true,
+  "projectFilePath": "C:\\Programmering2\\StarwarsAPI2\\StarWarsStat\\StarWarsStat\\StarWarsStat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charlie.sessernylun\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\charlie.sessernylun\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\charlie.sessernylun\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
