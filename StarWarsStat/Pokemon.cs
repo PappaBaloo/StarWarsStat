@@ -9,11 +9,11 @@ using System.Text.Json.Serialization;
 
 public class Pokemon
 {
-    public string name = "";
+    public string name { get; set; }
+    public int id { get; set; }
+    public bool is_default { get; set; }
 
-    // [JsonPropertyName("Name")]
-    // public List<string> Name { get; set; }
+    public moveWrapper[] moves { get; set; }
 
-    // [JsonPropertyName("Species")]
-    // public List<string> Species { get; set; }
 }
+

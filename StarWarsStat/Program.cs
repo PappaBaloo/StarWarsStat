@@ -18,6 +18,8 @@ string content = response.Content;
 
 Pokemon charizard = JsonConvert.DeserializeObject<Pokemon>(content);
 
-Console.WriteLine(content);
+Console.WriteLine(response.StatusCode);
+
+Console.WriteLine($"Name: {charizard.name}  id:{charizard.id}");
 
 Console.ReadLine();
