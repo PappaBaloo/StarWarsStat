@@ -22,4 +22,6 @@ Console.WriteLine(response.StatusCode);
 
 Console.WriteLine($"Name: {charizard.name}  id:{charizard.id}");
 
+Console.WriteLine(charizard.moves[0].move.name);
+
 Console.ReadLine();
